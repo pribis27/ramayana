@@ -1,0 +1,21 @@
+
+h1 {
+  color:blue;
+  font-family:verdana;
+  font-size:200%;
+  background-color:pink;
+  text-align:center;
+}
+p  {
+  color:green;
+  font-family:courier;
+  font-size:130%;
+  text-align:left;
+}
+
+img 
+{
+  border-style: dotted;
+  border-color: crimson;
+  border-width: 20px ;
+}
